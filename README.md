@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Design-Patterns-Java.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Design-Patterns-Java)
+
 ## Design-patterns-creational-springboot
 ----------------------------------------
 
